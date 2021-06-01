@@ -6,3 +6,5 @@
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Color palette](https://github.com/eendroroy/alacritty-theme/blob/master/themes/pencil_light.yaml)
+
+![alacritty](/screens/alacritty.png)
