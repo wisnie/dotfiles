@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.fontSize": 24,
+    "editor.lineHeight": 36,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": 500
+}
