@@ -1,9 +1,22 @@
 {
-    "workbench.colorTheme": "Quiet Light",
-    "window.menuBarVisibility": "toggle",
-    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
-    "editor.fontSize": 24,
-    "editor.lineHeight": 36,
-    "editor.fontLigatures": true,
-    "editor.fontWeight": 500
+  "window.menuBarVisibility": "toggle",
+  "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+  "editor.fontSize": 24,
+  "editor.lineHeight": 36,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 500,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "workbench.colorTheme": "GitHub Light Colorblind (Beta)",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "breadcrumbs.enabled": false,
+  "workbench.iconTheme": "chalice-icon-theme",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true
 }
